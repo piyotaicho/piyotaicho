@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piyotaicho, an M.D., a developer and a data analyst.
+- 👋 Hi, I’m @piyotaicho, an M.D., a developer and a data analyst. I'm a president of P4 mohnet.
 - 📫 Contact @piyotaicho on twitter.
 
 <!---
